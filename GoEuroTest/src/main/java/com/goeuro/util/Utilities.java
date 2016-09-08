@@ -6,7 +6,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 /**
  * This class is used to provide list of useful Apis for the application. It is singleton class 
- * @author Anandh
+ * @author Anandh 
  *
  */
 public class Utilities {
