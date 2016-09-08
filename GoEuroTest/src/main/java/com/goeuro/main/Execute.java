@@ -48,5 +48,4 @@ public class Execute {
 		}
 		logger.info("GoEuro process completed");
 	}
-
 }
