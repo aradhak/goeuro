@@ -14,9 +14,7 @@ http://api.goeuro.com/api/v2/position/suggest/en/Berlin
 The API endpoint returns JSON documents like these:
 
 [
-
  {
-
  _id: 377078,
  key: null,
  name: "Potsdam",
