@@ -2,7 +2,7 @@ package com.goeuro.model;
 /**
  * Class GeoPosition is a pojo/model class for GeoPosition of a City
  * 
- * @author Anandh
+ * @author Anandh 
  *
  */
 public class GeoPosition {
