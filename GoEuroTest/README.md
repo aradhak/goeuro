@@ -2,7 +2,7 @@
 Prerequisites:
 -------------------
 - Eclipse
-- JDK 1.7 
+- JDK 1.8 
 - Maven
 
 Building project
@@ -35,7 +35,7 @@ Options:-
 1. Prerequisites:
 
 - Eclipse
-- JDK 1.7 
+- JDK 1.8 
 - Maven
 
 2. Open Eclipse and choose File-->Import-->Existing Maven Projects 
