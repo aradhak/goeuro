@@ -2,7 +2,7 @@ package com.goeuro.model;
 /**
  * Class City is a pojo/model class for City info
  * 
- * @author Anandh
+ * @author Anandh 
  *
  */
 public class City {
